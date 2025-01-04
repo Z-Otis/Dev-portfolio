@@ -49,7 +49,7 @@ const Projects = () => {
                         )}
                     </div>
 
-                    <a href='#' className='flex items-center gap-2 cursor-pointer text-white-600' target='_blank'
+                    <a href={currentProject.href} className='flex items-center gap-2 cursor-pointer text-white-600' target='_blank'
                     rel='noreferrer'
                     >
                         <p>Check Live Site</p>
