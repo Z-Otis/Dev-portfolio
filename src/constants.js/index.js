@@ -56,7 +56,85 @@ export const clientReviews = [
   },
 ];
 
-export const myProjects = [
+export const myProjects = [ 
+  {
+  title: 'LIHA Beauty - African Inspired clean beauty brand',
+  desc: 'An innovative high-end store built on shopify for a client',
+  subdesc:
+    'With a focus on efficiency, LIHA Beauty integrates complex custom shopify integrations that focuses on high conversion rates in sales.',
+  href: 'https://lihabeauty.com',
+  texture: '/textures/project/project3.mp4',
+  logo: '/assets/project-logo3.png',
+  logoStyle: {
+    backgroundColor: '#60f5a1',
+    background:
+      'linear-gradient(0deg, #60F5A150, #60F5A150), linear-gradient(180deg, rgba(255, 255, 255, 0.9) 0%, rgba(208, 213, 221, 0.8) 100%)',
+    border: '0.2px solid rgba(208, 213, 221, 1)',
+    boxShadow: '0px 0px 60px 0px rgba(35, 131, 96, 0.3)',
+  },
+  spotlight: '/assets/spotlight3.png',
+  tags: [
+    {
+      id: 1,
+      name: 'React.js',
+      path: '/assets/react.svg',
+    },
+    {
+      id: 2,
+      name: 'TailwindCSS',
+      path: 'assets/tailwindcss.png',
+    },
+    {
+      id: 3,
+      name: 'TypeScript',
+      path: '/assets/typescript.png',
+    },
+    {
+      id: 4,
+      name: 'Framer Motion',
+      path: '/assets/framer.png',
+    },
+  ],
+},
+{
+  title: 'Poster Child Prints - Art and limited-edition prints. Visually bold with gallery-style presentation',
+  desc: 'An innovative high-end store built on shopify for a client',
+  subdesc:
+    'With a focus on efficiency, Poster Child Prints integrates complex custom shopify integrations that focuses on high conversion rates in sales.',
+  href: 'https://posterchildprints.com',
+  texture: '/textures/project/project3.mp4',
+  logo: '/assets/project-logo3.png',
+  logoStyle: {
+    backgroundColor: '#60f5a1',
+    background:
+      'linear-gradient(0deg, #60F5A150, #60F5A150), linear-gradient(180deg, rgba(255, 255, 255, 0.9) 0%, rgba(208, 213, 221, 0.8) 100%)',
+    border: '0.2px solid rgba(208, 213, 221, 1)',
+    boxShadow: '0px 0px 60px 0px rgba(35, 131, 96, 0.3)',
+  },
+  spotlight: '/assets/spotlight3.png',
+  tags: [
+    {
+      id: 1,
+      name: 'React.js',
+      path: '/assets/react.svg',
+    },
+    {
+      id: 2,
+      name: 'TailwindCSS',
+      path: 'assets/tailwindcss.png',
+    },
+    {
+      id: 3,
+      name: 'TypeScript',
+      path: '/assets/typescript.png',
+    },
+    {
+      id: 4,
+      name: 'Framer Motion',
+      path: '/assets/framer.png',
+    },
+  ],
+},
   {
     title: 'CarePulse - Health Management System',
     desc: 'An innovative healthcare platform designed to streamline essential medical processes. It simplifies patient registration, appointment scheduling, and medical record management, providing a seamless experience for both healthcare providers and patients.',
