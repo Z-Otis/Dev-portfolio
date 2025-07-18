@@ -31,7 +31,7 @@ const About = () => {
                     className='w-full sm:w-[276px] h-fit object-contain'/>
                     <div>
                         <p className="grid-headtext">Tech Stack</p>
-                        <p className="grid-subtext">I specialize in Javascript/Typescript with a focus on React and Next.js ecosystems. I also have good experience with Node.js, Express.js and MongoDB.</p>
+                        <p className="grid-subtext">I specialize in Javascript/Typescript with a focus on React and Next.js ecosystems. I also have good experience with Shopify, wordpress, Node.js, Express.js and MongoDB.</p>
                     </div>
                 </div>
             </div>
